@@ -17,10 +17,20 @@
                 <button class="bg-white px-6 py-3 text-gray-700 font-serif mx-auto w-fit">Book Now</button>
             </div>
             <!-- div 1 endded -->
-             <div class="w-full h-screen p-12 flex flex-col">
-                <h1 class="text-5xl font-bold text-white">Music Chart</h1>
-             </div>
             </div>
+            <div class="w-full  h-screen p-12 flex flex-col">
+                <h1 class="text-5xl font-bold text-white w-[80%] mx-auto my-12">Music Chart</h1>
+                <div class="w-[80%] bg-black/90  flex-col flex gap-2 mx-auto">
+                    <div class=" border-b border-gray-400 p-4 w-full flex justify-between items-center">
+                        <div class="flex gap-3 justify-center items-center px-6 text-white">
+                            <p class=" text-5xl font-bold font-serif">1.</p>
+                            <img src="17.jpg.webp" class="h-20 w-20" alt="">
+                            <h3 class="text-4xl "><i class="fa-solid fa-play text-2xl px-2 py-1.5 text-center rounded-full border-2 "></i> Aron Afshar</h3>
+                        </div>
+                        <button class="text-gray-800 bg-white  h-fit w-fit px-6 py-3 hover:shadow-md shadow-gray-500 font-serif"><a href="{{}}">Donlowd</a></button>
+                    </div>
+                </div>
+             </div>
         </div>
     </div>
 </body>
